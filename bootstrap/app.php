@@ -24,10 +24,6 @@ $app = new Jalno\Lumen\Application(dirname(__DIR__), Jalno\Package\Package::clas
 $app->withFacades();
 $app->withEloquent();
 
-$app->singleton(
-    Illuminate\Contracts\Debug\ExceptionHandler::class,
-    Jalno\Userpanel\Exceptions\Handler::class
-);
 $app->configure('app');
 $app->packages->boot();
 $app->packages->setupRouter();
