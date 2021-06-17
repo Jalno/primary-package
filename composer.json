@@ -1,5 +1,5 @@
 {
-    "name": "jalno/package",
+    "name": "jalno/primary-package",
     "description": "Template app using Laravel Lumen Framework.",
     "keywords": ["jalno", "framework", "laravel", "lumen"],
     "license": "MIT",
