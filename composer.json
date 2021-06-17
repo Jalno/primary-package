@@ -1,6 +1,6 @@
 {
     "name": "jalno/primary-package",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Template app using Laravel Lumen Framework.",
     "keywords": ["jalno", "framework", "laravel", "lumen"],
     "license": "MIT",
